@@ -68,7 +68,7 @@ Both the brief and email can be used as Portfolio evidence plus we'll get them t
 
 | Overview  | Timing  |
 | ------ | ------ |
-| [Class Introductions](##Class-Introductions) | 10 mins |
+| [Class Introductions](https://github.com/tchustz/whTest/blob/main/classIntroductions.md) | 10 mins |
 | Data Analytics Lifecycle | 45 mins |
 | Break | 10 mins |
 | Planning: Dealing with Stakeholders |     45 mins |
