@@ -26,9 +26,9 @@ Today we are doing to learn about test driven development. We are going to use t
 
 This introduces TDD. Use this session to support apprentices in getting Jest set up and running. Apprentices will be organising their code using `module.exports` and `require`. In our next session they can practice setting this up again themselves. You might want to expand on more of the [Jest expect](https://jestjs.io/docs/en/expect) API. Those who need stretch objectives should try to use a few different expects i.e. objectContaining, not.objectContaining, toHaveProperty
 
-## Assignment
+## Assessment Criterua 
 
-They can practice the family tree again.
+They can practice the family tree again if they finish this early
 
 ## Additional Reading
 
@@ -48,7 +48,8 @@ They can practice the family tree again.
 
 ## Detailed Notes: Lesson 1 - Your first failing test
 
-### Welcome [back](#Overview)
+### Welcome 
+[back](#Overview)
 
 #### 10 minutes 
 
