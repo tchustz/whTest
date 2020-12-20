@@ -64,7 +64,8 @@ Things you should always do/ask:
 
 To facilitate these questions you can have apprentices openly talk to the whole group or break out in pairs/breakout rooms to discuss themselves and share their code/give feedback on their code, then come back adn share
 
-### Tests [back](#Overview)
+### Tests 
+[back](#Overview)
 
 #### 20 minutes 
 
@@ -98,7 +99,8 @@ What are some SyntaxErrors you’ve had in the past? What about bugs? How long d
 
 Place apprentices in breakout rooms to share their experiences with SyntaxErrors and bugs. As they talk about how they solved problems, ask them to share with the coach the list of resources they used to solve SyntaxErrors. The coach at the end of the day will share the list with the whote cohort to use as a reference.
 
-### TDD Cycle  [back](#Overview)
+### TDD Cycle  
+[back](#Overview)
 #### 15 minutes 
 So tests are a great thing to help us make sure our code works , but as said earlier we don’t want to run a huge chunk of code and get a crazy amount of errors. Instead, we want to have smaller and more frequent tests on our code. 
 
@@ -115,7 +117,8 @@ There are 3 cycles behind Test Driven Development: Red, Green and Refactor just 
 Let's try it out! 
 
 
-### Jest  [back](#Overview)
+### Jest  
+[back](#Overview)
 #### 15 minutes 
 
 For testing we will use Jest, a testing framework developed at Facebook. You should have installed Jest before this session. If you haven’t, do that now. 
@@ -150,7 +153,8 @@ This may not be how we usually think of testing things. Sometimes we build somet
 
 
 
-### Assignment [back](#Overview)
+### Assignment 
+[back](#Overview)
 
 Can you use TDD to recreate the family tree that you previously constructed? Only now there should be a set of tests that you can run to prove your family tree is constructed correctly.
 
